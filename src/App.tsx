@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
-import { BrowserRouter } from "react-router-dom";
-import GlobalStyle from "./styles/globals";
+import { BrowserRouter } from 'react-router-dom';
+import GlobalStyle from './styles/globals';
 
-import Route from "./routes";
+import Route from './routes';
 
 const App: React.FC = () => (
   <>

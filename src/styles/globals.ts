@@ -1,6 +1,6 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
-import github from "../assets/github.svg";
+import github from '../assets/github.svg';
 
 export default createGlobalStyle`
   * {
